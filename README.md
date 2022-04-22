@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+PunchClockは打刻アプリです。
+webアプリ開発を体験するために5日ほどで制作しました。
+制作の際には、Progateというwebアプリ制作学習サービスを参考にしました。
+打刻アプリとはいうものの、未だその中身はTwitterの類似物にとどまっています。
+主な機能として、ユーザ登録（メールアドレスとパスワードを登録）し、簡単な文章を投稿することができます。
+またherokuを用いてブラウザ上でアクセスできるようになっています。バグは残っているのですが、以下にそのリンクを掲載します：
+https://punch-clock-07229.herokuapp.com/
